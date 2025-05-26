@@ -1,0 +1,7 @@
+.task_header_container .nav_item:nth-child(3) {
+  display: none;
+}
+
+.task_header_container .login_button {
+  display: none;
+}
