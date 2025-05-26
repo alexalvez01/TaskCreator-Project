@@ -15,7 +15,7 @@ function TaskForm() {
     e.preventDefault();
 
     if (title.trim() === "" || description.trim() === "") {
-      setErrorMsg("Por favor, completa todos los campos.");
+      setErrorMsg("Please, fill all the spaces.");
       return;
     }
 
